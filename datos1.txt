@@ -1,0 +1,16 @@
+INSERT INTO Indicators  (countrycode, indicatorcode, year) VALUES 
+('AF', 'PIB', '2005','Producto Interno Bruto','US$','6209137624.77181'),
+('AF', 'PIB', '2006','Producto Interno Bruto','US$','6971285594.68013'), 
+('AF', 'PIB', '2007','Producto Interno Bruto','US$','9747879531.86311'),
+('AF', 'PIB', '2008','Producto Interno Bruto','US$','10109225813.6696'),
+('AF', 'PIB', '2009','Producto Interno Bruto','US$','12439087076.7667'),
+('AF', 'PIB', '2010','Producto Interno Bruto','US$','15856574731.4411'),
+('AF', 'PIB', '2011','Producto Interno Bruto','US$','17804292964.1045'),
+('AF', 'PIB', '2012','Producto Interno Bruto','US$','20001598505.7042'),
+('AF', 'PIB', '2013','Producto Interno Bruto','US$','20561069558.2152'),
+('AF', 'PIB', '2014','Producto Interno Bruto','US$','20484885119.7348'),
+('AF', 'PIB', '2015','Producto Interno Bruto','US$','19907111418.9938'),
+('AF', 'PIB', '2016','Producto Interno Bruto','US$','19362642266.6484'),
+('AF', 'PIB', '2017','Producto Interno Bruto','US$','20191760000.0587'),
+('AF', 'PIB', '2018','Producto Interno Bruto','US$','19484384936.6312'),
+('AF', 'PIB', '2019','Producto Interno Bruto','US$','19101353832.7371');
